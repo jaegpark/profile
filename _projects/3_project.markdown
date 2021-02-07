@@ -12,6 +12,8 @@ I started out on [WCIPEG](https://wcipeg.com/user/thejammer), but quickly transi
 [WLMOJ](https://mcpt.ca/user/thejammer) judges. 
 I also frequently compete in my school's Lyon's Computing Contest, as a member of our school's programming team.
 
+My online handles vary in the form of "the jammer". They include `thejammerr`, `the_jammerr`, and `thejammer` (if I'm lucky and early enough).
+I also have alt accounts on DMOJ to track progress on separate types of problems (graph theory, dp, etc.). Check them all out if you have time :)
 
 My main [repository](https://github.com/thejammerr/Competitive-Programming) includes solutions to problems from:
 CCC/CCO, DMOPC, ECOO, GlobeX Cup, LCC, and USACO.
