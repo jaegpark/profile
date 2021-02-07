@@ -64,4 +64,5 @@ so some things did not appear when we merged our code. We had to rewrite quite a
 1. Make sure to define the class hierarchy structure before splitting groupwork.
 2. Use case-sensitive path directory strings in image paths. The .jar will not find these images (.png vs .PNG), but the IDE will compile and find the images perfectly fine. Basically, don't trust the IDE.
 3. Use newer libraries! Something that I regret is not using more practical libraries that existed. This would've made our interfaces and popups more modern, and look less archaic. 
-4. Invest time into graphics. My partner and I didn't really care too much about aesthetics (hence takeaway 3.) and 
+4. Invest time into graphics. My partner and I didn't really care too much about aesthetics (hence takeaway 3.) and cared more about functionality. This made our game look crappy, even though it still worked as a game.
+Since game dev is something where user interactivity is important, I'll be sure to put more care into making an aesthetic game next time. 
