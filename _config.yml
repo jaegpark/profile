@@ -9,8 +9,8 @@ last_name: Park
 email: jaepark.g@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Learn all about me :D
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: > # with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme
+  Website powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  # the base hostname & protocol for your site
