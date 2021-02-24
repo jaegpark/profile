@@ -4,6 +4,7 @@ title: competitive programming
 description: code - java, c++ - 2 yr - 2018, 2019, 2020
 img: /assets/img/competitive-programming.jpg
 importance: 2
+github: https://github.com/thejammerr/Competitive-Programming
 ---
 
 Competitive programming has been a side hobby since I began learning how to code. 

@@ -4,6 +4,7 @@ title: theatre widget
 description: applet - java - 2 wk - 2018
 img: /assets/img/cinema_pics/c1.jpg
 importance: 4
+github: https://github.com/thejammerr/Theatre-Widget
 ---
 
 ## What it does

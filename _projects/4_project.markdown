@@ -4,6 +4,7 @@ title: Simon Says
 description: game dev - turing - 2 wk - 2018
 img: /assets/img/simon_pics/ss1.jpg
 importance: 5
+github: https://github.com/thejammerr/Simon-Says
 ---
 
 ## What it does

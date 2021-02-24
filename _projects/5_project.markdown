@@ -5,6 +5,7 @@ description: web dev - html/css - 3 wk - 2019
 img: /assets/img/icsportfolio.jpg
 importance: 6
 redirect: https://thejammerr.github.io/ICS-Portfolio/index.html
+github: https://github.com/thejammerr/ICS-Portfolio
 ---
 
 ## What it is 
