@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ics portfolio
-description: web dev - html/css - 3 wk - 2019
+description: An HTML/CSS portfolio website made for my AP Computer Science project. This was my introduction to web development. 
 img: /assets/img/icsportfolio.jpg
 importance: 6
 redirect: https://thejammerr.github.io/ICS-Portfolio/index.html

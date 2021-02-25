@@ -1,15 +1,13 @@
 ---
 layout: page
 title: Defeat the Heat
-description: game dev - java - 1 mo - 2019
+description: Defeat the Heat is an educational game that teaches the player about fire safety. Made as my AP Computer Science culminating in Java.
 img: /assets/img/dth_images/dth10.jpg
 importance: 1
 github: https://github.com/thejammerr/Defeat-The-Heat
 ---
 
 ## What it does
-
-Defeat the Heat is a three-level desktop game that teaches the player about fire safety, made in `java` for my ICS4U culminating.
 
 We broke up the concept into three stages: learning, practicing, and application - hence the three levels.
 Using keyboard and mouse to navigate the game, the end goal is to learn fire safety mechanics:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: competitive programming
-description: code - java, c++ - 2 yr - 2018, 2019, 2020
+description: A repository that includes solutions to problems from CCC/CCO, DMOPC, ECOO, GlobeX Cup, LCC, and USACO, from judges like DMOJ and WLMOJ.
 img: /assets/img/competitive-programming.jpg
 importance: 2
 github: https://github.com/thejammerr/Competitive-Programming

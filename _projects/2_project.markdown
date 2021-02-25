@@ -1,16 +1,13 @@
 ---
 layout: page
 title: theatre widget
-description: applet - java - 2 wk - 2018
+description: A theatre widget that helps a user manage the ticketing of theatre seating. One of my first coding projects in Java.
 img: /assets/img/cinema_pics/c1.jpg
 importance: 4
 github: https://github.com/thejammerr/Theatre-Widget
 ---
 
 ## What it does
-
-This applet I built helps a user manage a 30x20 theatre seating grid. This was one of my first projects in `java` where I utilized 
-user interfaces and file I/O.
 
 It serves two functions: checking a seat's information (name of person who reserved it, availability, and cost), and purchasing tickets and saving the information in a file.
 

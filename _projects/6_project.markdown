@@ -1,7 +1,7 @@
 ---
 layout: page
 title: incendium academy
-description: web dev - html/css/ruby - 5 mo - 2020, 2021
+description: Website for my nonprofit startup, Incendium Academy. Uses the Jekyll rendering engine and JavaScript/Ruby/HTML/SCSS.
 img: /assets/img/incendium.png
 importance: 3
 redirect: https://incendiumacademy.org/

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simon Says
-description: game dev - turing - 2 wk - 2018
+description: A digital version of the Simon Says memory game. This was my first coding project made in Turing.
 img: /assets/img/simon_pics/ss1.jpg
 importance: 5
 github: https://github.com/thejammerr/Simon-Says
