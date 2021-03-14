@@ -57,7 +57,7 @@ wikidata_id: # your wikidata id
 
 contact_note: >
   I'm best found by email.
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-Y25G1X5NTK # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -155,7 +155,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false
+enable_google_analytics:    true
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
