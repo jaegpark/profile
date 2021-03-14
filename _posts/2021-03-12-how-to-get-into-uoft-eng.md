@@ -193,7 +193,15 @@ College, apprenticeships, or going directly into the workforce are all noble pur
 
 #### Focus on your grades.
 
-I know people say "grades aren't everything." But if your desired destination is U of T Engineering, then you should attain high grades in Adv Functions, Calculus, Chemistry, Physics, and English to remain competitive.
+I know people say "grades aren't everything." But sadly, the fact of the matter is that grades are one of the strongest indicators to an admissions officer about you.
+Your Top 6 average for ANY Engineering program at University of Toronto are composed of: 
+
+* Advanced Functions (MHF4U)
+* Calculus and Vectors (MCV4U)
+* English (ENG4U)
+* Physics (SPH4U)
+* Chemistry (SCH4U)
+* another the highest non-prerequisite U or M level course of your choice
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -204,9 +212,16 @@ I know people say "grades aren't everything." But if your desired destination is
     Data extracted from U of T's First Year class of 2020 profile. 
 </div>
 
-The `Mean OSS average` is the mean average of Ontario Secondary Students in each program. Anything above would probably be a competitive average.
+The `Mean OSS average` is the mean average of Ontario Secondary Students in each program. Anything around it would be a competitive average.
 
-#### Month by Month...
+#### Should I take AP courses?
+
+To my knowledge, the Faculty of Applied Science and Engineering does not take AP scores as credits. However, there is a section on the supplementary application to send your test scores through the College Board.
+
+I think AP courses can better prepare you for what you'll learn in your first year at university. It also shows the admissions officers you've taken on a challenge in high school. Aside from this though, I don't think
+it has much merit. If you're looking for easier grades, taking non-AP courses might be the way for you.
+
+#### Month by month...
 
 **September - November**
 
