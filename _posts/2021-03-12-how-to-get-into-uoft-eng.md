@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to get into University of Toronto Engineering
-description: my advice for the uoft engineering application process
+description: My advice for the UofT engineering application process.
 date: 2021-03-12 11:12:00-0400
 comments: true
 ---

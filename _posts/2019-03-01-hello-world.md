@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-description: my first ever post
+description: My first ever post!
 date: 2019-03-01 11:12:00-0400
 ---
 
