@@ -3,7 +3,7 @@ layout: page
 title: theatre widget
 description: A theatre widget that helps a user manage the ticketing of theatre seating. One of my first coding projects in Java.
 img: /assets/img/cinema_pics/c1.jpg
-importance: 4
+importance: 6
 github: https://github.com/thejammerr/Theatre-Widget
 ---
 

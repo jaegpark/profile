@@ -3,7 +3,7 @@ layout: page
 title: ics portfolio
 description: An HTML/CSS portfolio website made for my AP Computer Science project. This was my introduction to web development. 
 img: /assets/img/icsportfolio.jpg
-importance: 6
+importance: 7
 redirect: https://thejammerr.github.io/ICS-Portfolio/index.html
 github: https://github.com/thejammerr/ICS-Portfolio
 ---
