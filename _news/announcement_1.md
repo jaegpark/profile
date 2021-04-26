@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-03-22 15:59:00-0400
+date: 2021-02-19 15:59:00-0400
 inline: true
 ---
 
-Quarantine begins today.
+I got accepted to U of T Engineering Science.
