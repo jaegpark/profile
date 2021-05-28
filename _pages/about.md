@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 *Hiya!*
 
-I'm a grade 12 MaCS/AP student at William Lyon Mackenzie CI. Call me Jae.
+I'm an incoming [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/){:target="_blank"} student at the University of Toronto. Call me Jae.
 
 I love helping others, making useful technology, and doing meaningful work.
 
