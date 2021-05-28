@@ -71,8 +71,8 @@ permalink: /blog/:year/:title/
 # Pagination
 # pagination:
  # enabled: true
-gems: [jekyll-paginate, jekyll-seo-tag]
-paginate:         5
+# gems: [jekyll-paginate, jekyll-seo-tag]
+paginate: 5
 paginate_path: "/blog/page:num/"
 # Comments
 disqus_shortname: jaegwanpark
@@ -119,10 +119,11 @@ exclude: [vendor]
 plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
   # - bootstrap
   # - material-sass
 
