@@ -10,6 +10,7 @@ Hey everyone. This page will be continually updated as I find more interesting t
 # Videos
 - [An insightful video that helped me better understand autism.](https://www.youtube.com/watch?v=ybPgmjTRvMo)
 - [The Social Dilemma - a Netflix documentary about data collection, online privacy, and effects of social media on humanity.](https://www.netflix.com/title/81254224)
+- [The keys to a great conversation](https://www.youtube.com/watch?v=bfGQpe6FQcw)
 
 # Articles
 - [The Dunning-Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
