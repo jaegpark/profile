@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Co-founder of <a href="https://incendiumacademy.org" target="blank">Incendium Academy</a>. <a href="http://wlmac.ca/macsprogram/" target="blank">MaCS Program</a> Alumni.
+description: Research Intern at <a href="https://sunnybrook.ca/research/content/?page=sri-ed-summ-ultra" target="blank">Sunnybrook Research Institute</a>. <a href="http://wlmac.ca/macsprogram/" target="blank">MaCS Program</a> Alumni.
 
 profile:
   align: right
@@ -21,10 +21,8 @@ I'm an incoming [Engineering Science](https://engsci.utoronto.ca/program/what-is
 
 I love helping others, making useful technology, and doing meaningful work.
 
-I'm currently taking MIT's [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/){:target="_blank"} and [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm){:target="_blank"},
- and thinking about starting a college VLOG YouTube Channel. 
-
-Explore my blog and projects for a better idea of who I am and what I can do. I'm always looking for new opportunities, so feel free to contact me!
+I'm currently working full-time as a summer research intern for Sunnybrook's Focused Ultrasound Lab under the supervision of Dr. Ryan Jones. 
+Explore my resume, blog, and past projects for a better idea of who I am and what I can do. I'm always looking for new opportunities, so feel free to contact me!
 
 
 [Resume](assets/pdf/resume.pdf){:target="_blank"}
