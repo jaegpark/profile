@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Research Intern at <a href="https://sunnybrook.ca/research/content/?page=sri-ed-summ-ultra" target="blank">Sunnybrook Research Institute</a>. <a href="assets/pdf/macsLetter.pdf" target="blank">MaCS Program</a> Alumni.
+description: Research Assistant at <a href="https://sunnybrook.ca/research/content/?page=sri-ed-summ-ultra" target="blank">Sunnybrook Research Institute</a>. <a href="assets/pdf/macsLetter.pdf" target="blank">MaCS Program</a> Alumni.
 
 profile:
   align: right
